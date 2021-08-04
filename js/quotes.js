@@ -8,7 +8,7 @@ const quotes = [
 		author: "Walt Disney",
 	},
 	{
-		quote: "There are better starters than me but I¡¯m a strong finisher.",
+		quote: "There are better starters than me but I'm a strong finisher.",
 		author: "Usain Bolt",
 	},
 	{
@@ -16,11 +16,11 @@ const quotes = [
 		author: "Robert H. Schuller",
 	},
 	{
-		quote: "I¡¯ve failed over and over and over again in my life and that is why I succeed.",
+		quote: "I've failed over and over and over again in my life and that is why I succeed.",
 		author: "Michael Jordan",
 	},
 	{
-		quote: "If you don¡¯t get out of the box you¡¯ve been raised in, you won¡¯t understand how much bigger the world is.",
+		quote: "If you don't get out of the box you've been raised in, you won't understand how much bigger the world is.",
 		author: "Angelina Jolie",
 	},
 	{
@@ -32,7 +32,7 @@ const quotes = [
 		author: "Dwayne Johnson",
 	},
 	{
-		quote: "I didn¡¯t get there by wishing for it or hoping for it, but by working for it.",
+		quote: "I didn't get there by wishing for it or hoping for it, but by working for it.",
 		author: "Est?e Lauder",
 	},
 	{
